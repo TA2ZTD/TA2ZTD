@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Cyber Security Specialist** at **CBERNET**.
+- 🔭 I’m currently working as a **Cyber Security Specialist**.
 - 🎓 Senior **Computer Engineering** student at Gazi University.
 - 🛡️ Specialized in **Mobile Security (Android)**, **Threat Hunting**, and **Malware Analysis**.
 - 💡 I enjoy **Reverse Engineering** mobile apps and developing security tools using **Python & Java**.
